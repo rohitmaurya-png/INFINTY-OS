@@ -1,4 +1,5 @@
 # INFINTY-OS
+![](demo.jpeg)
 just having fun
 infinity os is an operating system created for learning purpose.
 
